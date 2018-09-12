@@ -1,0 +1,40 @@
+[
+  {
+    "sides": [
+      {
+        "crest": "Summon",
+        "modifier": 1
+      },
+      {
+        "crest": "Summon",
+        "modifier": 1
+      },
+      {
+        "crest": "Summon",
+        "modifier": 1
+      },
+      {
+        "crest": "Summon",
+        "modifier": 1
+      },
+      {
+        "crest": "Null",
+        "modifier": 1
+      },
+      {
+        "crest": "Null",
+        "modifier": 1
+      }
+    ],
+    "content": {
+      "name": "Beaver Warrior",
+      "contentType": "Monster",
+      "attribute": "Earth",
+      "type": "Beast",
+      "hp": 10,
+      "atk": 10,
+      "def": 10,
+      "level": 1
+    }
+  }
+]

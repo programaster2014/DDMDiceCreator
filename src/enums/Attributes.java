@@ -1,6 +1,7 @@
 package enums;
 
 public enum Attributes {
+	Null,
 	Light,
 	Dark,
 	Wind,
